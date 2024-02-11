@@ -9,7 +9,7 @@
 /// <reference path="types/app.config.d.ts" />
 /// <reference types="vite/client" />
 /// <reference types="@pinia/nuxt" />
-/// <reference path="types/i18n-plugin.d.ts" />
+/// <reference path="../node_modules/.pnpm/@nuxtjs+i18n@8.0.0_rollup@4.10.0_vue-router@4.2.5_vue@3.4.10/node_modules/@nuxtjs/i18n/dist/runtime/types" />
 /// <reference types="vue-router" />
 /// <reference path="types/middleware.d.ts" />
 /// <reference path="types/layouts.d.ts" />
@@ -17,7 +17,6 @@
 /// <reference path="components.d.ts" />
 /// <reference path="types/imports.d.ts" />
 /// <reference path="imports.d.ts" />
-/// <reference path="nuxt-config-schema" />
 /// <reference path="schema/nuxt.schema.d.ts" />
 /// <reference path="types/nitro.d.ts" />
 
